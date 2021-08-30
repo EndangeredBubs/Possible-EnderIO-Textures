@@ -1,1 +1,1 @@
-Start working on ingots. 0%
+Start working on ingots. 0/19
