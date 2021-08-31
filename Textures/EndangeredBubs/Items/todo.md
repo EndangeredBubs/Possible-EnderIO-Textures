@@ -1,1 +1,1 @@
-Start working on ingots, nuggets and gears.
+Start working on new ingots, nuggets and gears.
