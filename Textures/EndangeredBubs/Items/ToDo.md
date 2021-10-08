@@ -1,1 +1,2 @@
-work on new ingots, nuggets, gears and some new materials.
+Ingots and Nuggets
+Grains Of Infinity
