@@ -1,2 +1,1 @@
-Ingots and Nuggets
-Grains Of Infinity
+Ingots and Nuggets | Grains Of Infinity.
